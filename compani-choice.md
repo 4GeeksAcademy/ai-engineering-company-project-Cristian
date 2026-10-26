@@ -4,20 +4,24 @@ Las plataformas de gestion de personal esta llena de reclutadores de trabajadore
 
 Primer departamento que veo interesante
 
-💼 Ventas y Desarrollo de Negocios
-Responsable: Marcos Ibáñez (equipo de 18 personas: 6 account managers, 12 DEG)
+Ventas y Desarrollo de Negocio
 
-Los SDRs prospectan manualmente en LinkedIn, exportan listas a Excel y hacen seguimiento por correo electrónico sin ninguna automatización. Tienen un CRM (HubSpot) pero solo el 40% del equipo lo actualiza con regularidad. Muchos negocios se pierden por falta de seguimiento y no hay visibilidad sobre qué prospectos tienen más probabilidad de cerrar.
-
-Qué necesitan: Un tablero del pipeline de ventas, una automatización de secuencias de prospección (primer contacto → seguimiento → cierre o descarte), alertas para conversaciones sin actividad, y un agente de IA que sugiera el ángulo de propuesta más adecuado para cada prospecto.
+Me interesa este departamento porque gran parte de la prospección y el seguimiento comercial se realiza manualmente. Muchos clientes potenciales se pierden porque el equipo olvida hacer seguimiento y el CRM no se actualiza de forma regular.
 
 El segundo departamento que veo interesante
 
-📞 Atención al Cliente (servicio externalizado)
-Responsable: Roberto Díaz (30 agentes)
+Atención al Cliente
 
-Los 30 agentes gestionan incidencias de los clientes de outsourcing de Nexova (tech, retail, finanzas) por teléfono, email y chat web. No hay base de conocimiento centralizada — los agentes resuelven por experiencia y un documento Word compartido en Drive. El tiempo medio de resolución es de 48 horas; el SLA comprometido es de 24. Los supervisores no tienen visibilidad en tiempo real sobre la carga de trabajo ni el estado del backlog.
+Me interesa porque los agentes tardan una media de 48 horas en resolver las incidencias, aunque el SLA comprometido es de 24 horas. Una solución basada en IA podría ayudar a responder consultas frecuentes y encontrar rápidamente información útil para resolver los problemas.
 
-Qué necesitan: Un chatbot de soporte de primera línea que resuelva el 40% de las consultas sin intervención humana usando RAG, una base de conocimiento centralizada con búsqueda semántica, un tablero de soporte en tiempo real, y un análisis de sentimiento de tickets para identificar clientes insatisfechos antes de que escalan.
+## Reto de automatización
 
-Lo que más me gustaria poder hacer es Complejidad multifuncional — construirás para cinco equipos muy distintos (operaciones, ventas, RRHH, formación, soporte), cada uno con datos diferentes, usuarios diferentes y definiciones de éxito diferentes.
+Reto de automatización o IA que más ganas tengo de construir
+
+Me gustaría construir un Agente de IA para automatizar el seguimiento comercial en Ventas y Desarrollo de Negocio. El agente consultaría la información del CRM, las conversaciones anteriores y las propuestas enviadas para identificar oportunidades que necesitan seguimiento. Recomendaría el siguiente paso comercial, prepararía correos personalizados y generaría alertas cuando una oportunidad lleve demasiado tiempo sin actividad. Así, el equipo podría ahorrar tiempo en tareas manuales, mejorar la organización comercial y evitar perder clientes potenciales.
+
+En el futuro, ampliaría la solución al departamento de Atención al Cliente mediante otro agente capaz de consultar una base de conocimiento, responder preguntas frecuentes y ayudar a los agentes humanos a resolver incidencias más rápidamente.
+
+##Mi idea de agente IA
+
+Me gustaría construir un agente de IA para el departamento de Ventas y Desarrollo de Negocio de Nexova. El agente consultaría la información del CRM, los correos y las propuestas comerciales para identificar oportunidades que necesitan seguimiento. Recomendaría el siguiente paso, prepararía correos personalizados y generaría alertas cuando un cliente potencial lleve demasiado tiempo sin recibir respuesta. Necesitaría información actualizada de los contactos, las conversaciones y el estado de cada oportunidad. Como resultado, ayudaría al equipo comercial a ahorrar tiempo, organizar mejor el seguimiento y evitar perder ventas. Antes de enviar correos o realizar acciones importantes, el agente solicitaría la revisión del comercial. En el futuro, me gustaría ampliar esta solución al departamento de Atención al Cliente para ayudar a resolver incidencias mediante una base de conocimiento inteligente.
